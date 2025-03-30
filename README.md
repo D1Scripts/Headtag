@@ -1,2 +1,2 @@
 # Headtag
-[standalone headtag script for fivem](https://discord.gg/cpEXrSY9me)
+[discord](https://discord.gg/cpEXrSY9me)
